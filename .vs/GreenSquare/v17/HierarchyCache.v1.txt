@@ -1,0 +1,896 @@
+﻿++Решение "GreenSquare" ‎(проекты: 2 из 2)
+i:{00000000-0000-0000-0000-000000000000}:GreenSquare.sln
+++Assembly-CSharp
+i:{00000000-0000-0000-0000-000000000000}:Assembly-CSharp
+++Ссылки
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++Assets
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\
+++Firebase
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\firebase\
+++m2repository
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\firebase\m2repository\
+++com
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\firebase\m2repository\com\
+++google
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\firebase\m2repository\com\google\
+++firebase
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\firebase\m2repository\com\google\firebase\
+++firebase-app-unity
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\firebase\m2repository\com\google\firebase\firebase-app-unity\
+++maven-metadata.xml
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\firebase\m2repository\com\google\firebase\firebase-app-unity\maven-metadata.xml
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\firebase\m2repository\com\google\firebase\firebase-auth-unity\maven-metadata.xml
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\firebase\m2repository\com\google\firebase\firebase-storage-unity\maven-metadata.xml
+++firebase-auth-unity
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\firebase\m2repository\com\google\firebase\firebase-auth-unity\
+++firebase-storage-unity
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\firebase\m2repository\com\google\firebase\firebase-storage-unity\
+++Plugins
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\firebase\plugins\
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\parse\plugins\
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\plugins\
+++iOS
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\firebase\plugins\ios\
+++Firebase.App.dll
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\firebase\plugins\ios\firebase.app.dll
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\firebase\plugins\firebase.app.dll
+++Firebase.Auth.dll
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\firebase\plugins\ios\firebase.auth.dll
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\firebase\plugins\firebase.auth.dll
+++Firebase.Storage.dll
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\firebase\plugins\ios\firebase.storage.dll
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\firebase\plugins\firebase.storage.dll
+++x86_64
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\firebase\plugins\x86_64\
+++Firebase.Platform.dll
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\firebase\plugins\firebase.platform.dll
+++Firebase.TaskExtension.dll
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\firebase\plugins\firebase.taskextension.dll
+++Google.MiniJson.dll
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\firebase\plugins\google.minijson.dll
+++Parse
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\parse\
+++Scripts
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\scripts\
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\textmesh pro\examples & extras\scripts\
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\plugins\simplefilebrowser\scripts\
+++ImageLoader.cs
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\scripts\imageloader.cs
+++TextMesh Pro
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\textmesh pro\
+++Examples & Extras
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\textmesh pro\examples & extras\
+++Fonts
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\textmesh pro\fonts\
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\textmesh pro\examples & extras\fonts\
+++Resources
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\textmesh pro\resources\
+++Shaders
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\textmesh pro\shaders\
+++Sprites
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\textmesh pro\sprites\
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\plugins\simplefilebrowser\sprites\
+++Firebase.App
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++Firebase.Auth
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++Firebase.Platform
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++Firebase.Storage
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++Firebase.TaskExtension
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++Google.MiniJson
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++Microsoft.Win32.Primitives
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++mscorlib
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++netstandard
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++SimpleFileBrowser.Runtime
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{00000000-0000-0000-0000-000000000000}:SimpleFileBrowser.Runtime
+++System
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.AppContext
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Collections
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Collections.Concurrent
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Collections.NonGeneric
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Collections.Specialized
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.ComponentModel
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.ComponentModel.Composition
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.ComponentModel.EventBasedAsync
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.ComponentModel.Primitives
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.ComponentModel.TypeConverter
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Console
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Core
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Data
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Data.Common
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Diagnostics.Contracts
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Diagnostics.Debug
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Diagnostics.FileVersionInfo
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Diagnostics.Process
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Diagnostics.StackTrace
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Diagnostics.TextWriterTraceListener
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Diagnostics.Tools
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Diagnostics.TraceSource
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Diagnostics.Tracing
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Drawing
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Drawing.Primitives
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Dynamic.Runtime
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Globalization
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Globalization.Calendars
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Globalization.Extensions
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.IO
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.IO.Compression
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.IO.Compression.FileSystem
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.IO.Compression.ZipFile
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.IO.FileSystem
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.IO.FileSystem.DriveInfo
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.IO.FileSystem.Primitives
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.IO.FileSystem.Watcher
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.IO.IsolatedStorage
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.IO.MemoryMappedFiles
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.IO.Pipes
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.IO.UnmanagedMemoryStream
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Linq
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Linq.Expressions
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Linq.Parallel
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Linq.Queryable
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Net
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Net.Http
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Net.NameResolution
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Net.NetworkInformation
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Net.Ping
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Net.Primitives
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Net.Requests
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Net.Security
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Net.Sockets
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Net.WebHeaderCollection
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Net.WebSockets
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Net.WebSockets.Client
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Numerics
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Numerics.Vectors
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.ObjectModel
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Reflection
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Reflection.Extensions
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Reflection.Primitives
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Resources.Reader
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Resources.ResourceManager
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Resources.Writer
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Runtime
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Runtime.CompilerServices.VisualC
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Runtime.Extensions
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Runtime.Handles
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Runtime.InteropServices
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Runtime.InteropServices.RuntimeInformation
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Runtime.InteropServices.WindowsRuntime
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Runtime.Numerics
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Runtime.Serialization
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Runtime.Serialization.Formatters
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Runtime.Serialization.Json
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Runtime.Serialization.Primitives
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Runtime.Serialization.Xml
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Security.Claims
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Security.Cryptography.Algorithms
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Security.Cryptography.Csp
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Security.Cryptography.Encoding
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Security.Cryptography.Primitives
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Security.Cryptography.X509Certificates
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Security.Principal
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Security.SecureString
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.ServiceModel.Web
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Text.Encoding
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Text.Encoding.Extensions
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Text.RegularExpressions
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Threading
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Threading.Overlapped
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Threading.Tasks
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Threading.Tasks.Parallel
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Threading.Thread
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Threading.ThreadPool
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Threading.Timer
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Transactions
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.ValueTuple
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Web
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Windows
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Xml
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Xml.Linq
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Xml.ReaderWriter
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Xml.Serialization
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Xml.XDocument
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Xml.XmlDocument
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Xml.XmlSerializer
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Xml.XPath
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++System.Xml.XPath.XDocument
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++Unity.Compat
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++Unity.PlasticSCM.Editor
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+++Unity.Rider.Editor
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+++Unity.Tasks
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++Unity.TextMeshPro
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+++Unity.TextMeshPro.Editor
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+++Unity.Timeline
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+++Unity.Timeline.Editor
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+++Unity.VisualStudio.Editor
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+++Unity.VSCode.Editor
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+++UnityEditor
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEditor.CoreModule
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEditor.GraphViewModule
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEditor.iOS.Extensions.Common
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEditor.iOS.Extensions.Xcode
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEditor.PackageManagerUIModule
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEditor.SceneTemplateModule
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEditor.UI
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEditor.UIElementsModule
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEditor.UIElementsSamplesModule
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEditor.UIServiceModule
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEditor.UnityConnectModule
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEngine
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEngine.AccessibilityModule
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEngine.AIModule
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEngine.AndroidJNIModule
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEngine.AnimationModule
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEngine.ARModule
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEngine.AssetBundleModule
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEngine.AudioModule
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEngine.ClothModule
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEngine.CoreModule
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEngine.CrashReportingModule
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEngine.DirectorModule
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEngine.DSPGraphModule
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEngine.GameCenterModule
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEngine.GIModule
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEngine.GridModule
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEngine.HotReloadModule
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEngine.ImageConversionModule
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEngine.IMGUIModule
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEngine.InputLegacyModule
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEngine.InputModule
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEngine.JSONSerializeModule
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEngine.LocalizationModule
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEngine.ParticleSystemModule
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEngine.PerformanceReportingModule
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEngine.Physics2DModule
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEngine.PhysicsModule
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEngine.ProfilerModule
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEngine.ScreenCaptureModule
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEngine.SharedInternalsModule
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEngine.SpriteMaskModule
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEngine.SpriteShapeModule
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEngine.StreamingModule
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEngine.SubstanceModule
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEngine.SubsystemsModule
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEngine.TerrainModule
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEngine.TerrainPhysicsModule
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEngine.TextCoreModule
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEngine.TextRenderingModule
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEngine.TilemapModule
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEngine.TLSModule
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEngine.UI
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEngine.UIElementsModule
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEngine.UIElementsNativeModule
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEngine.UIModule
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEngine.UmbraModule
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEngine.UNETModule
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEngine.UnityAnalyticsModule
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEngine.UnityConnectModule
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEngine.UnityCurlModule
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEngine.UnityTestProtocolModule
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEngine.UnityWebRequestAssetBundleModule
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEngine.UnityWebRequestAudioModule
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEngine.UnityWebRequestModule
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEngine.UnityWebRequestTextureModule
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEngine.UnityWebRequestWWWModule
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEngine.VehiclesModule
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEngine.VFXModule
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEngine.VideoModule
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEngine.VRModule
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEngine.WindModule
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEngine.XRModule
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++FirebaseCppApp-8_6_2.dll
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\firebase\plugins\x86_64\firebasecppapp-8_6_2.dll
+++FirebaseCppAuth.dll
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\firebase\plugins\x86_64\firebasecppauth.dll
+++FirebaseCppStorage.dll
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\firebase\plugins\x86_64\firebasecppstorage.dll
+++dotNet45
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\parse\plugins\dotnet45\
+++Unity.Compat.dll
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\parse\plugins\unity.compat.dll
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\parse\plugins\dotnet45\unity.compat.dll
+++Unity.Tasks.dll
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\parse\plugins\unity.tasks.dll
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\parse\plugins\dotnet45\unity.tasks.dll
+++LiberationSans - OFL.txt
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\textmesh pro\fonts\liberationsans - ofl.txt
+++LineBreaking Following Characters.txt
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\textmesh pro\resources\linebreaking following characters.txt
+++LineBreaking Leading Characters.txt
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\textmesh pro\resources\linebreaking leading characters.txt
+++TMP_Bitmap-Custom-Atlas.shader
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\textmesh pro\shaders\tmp_bitmap-custom-atlas.shader
+++TMP_Bitmap-Mobile.shader
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\textmesh pro\shaders\tmp_bitmap-mobile.shader
+++TMP_Bitmap.shader
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\textmesh pro\shaders\tmp_bitmap.shader
+++TMP_SDF-Mobile Masking.shader
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\textmesh pro\shaders\tmp_sdf-mobile masking.shader
+++TMP_SDF-Mobile Overlay.shader
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\textmesh pro\shaders\tmp_sdf-mobile overlay.shader
+++TMP_SDF-Mobile SSD.shader
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\textmesh pro\shaders\tmp_sdf-mobile ssd.shader
+++TMP_SDF-Mobile.shader
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\textmesh pro\shaders\tmp_sdf-mobile.shader
+++TMP_SDF-Surface-Mobile.shader
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\textmesh pro\shaders\tmp_sdf-surface-mobile.shader
+++TMP_SDF-Surface.shader
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\textmesh pro\shaders\tmp_sdf-surface.shader
+++TMP_SDF Overlay.shader
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\textmesh pro\shaders\tmp_sdf overlay.shader
+++TMP_SDF SSD.shader
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\textmesh pro\shaders\tmp_sdf ssd.shader
+++TMP_SDF.shader
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\textmesh pro\shaders\tmp_sdf.shader
+++TMP_Sprite.shader
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\textmesh pro\shaders\tmp_sprite.shader
+++TMPro.cginc
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\textmesh pro\shaders\tmpro.cginc
+++TMPro_Mobile.cginc
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\textmesh pro\shaders\tmpro_mobile.cginc
+++TMPro_Properties.cginc
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\textmesh pro\shaders\tmpro_properties.cginc
+++TMPro_Surface.cginc
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\textmesh pro\shaders\tmpro_surface.cginc
+++EmojiOne Attribution.txt
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\textmesh pro\sprites\emojione attribution.txt
+++Anton OFL.txt
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\textmesh pro\examples & extras\fonts\anton ofl.txt
+++Bangers - OFL.txt
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\textmesh pro\examples & extras\fonts\bangers - ofl.txt
+++Oswald-Bold - OFL.txt
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\textmesh pro\examples & extras\fonts\oswald-bold - ofl.txt
+++Benchmark01.cs
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\textmesh pro\examples & extras\scripts\benchmark01.cs
+++Benchmark01_UGUI.cs
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\textmesh pro\examples & extras\scripts\benchmark01_ugui.cs
+++Benchmark02.cs
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\textmesh pro\examples & extras\scripts\benchmark02.cs
+++Benchmark03.cs
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\textmesh pro\examples & extras\scripts\benchmark03.cs
+++Benchmark04.cs
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\textmesh pro\examples & extras\scripts\benchmark04.cs
+++CameraController.cs
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\textmesh pro\examples & extras\scripts\cameracontroller.cs
+++ChatController.cs
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\textmesh pro\examples & extras\scripts\chatcontroller.cs
+++DropdownSample.cs
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\textmesh pro\examples & extras\scripts\dropdownsample.cs
+++EnvMapAnimator.cs
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\textmesh pro\examples & extras\scripts\envmapanimator.cs
+++ObjectSpin.cs
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\textmesh pro\examples & extras\scripts\objectspin.cs
+++ShaderPropAnimator.cs
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\textmesh pro\examples & extras\scripts\shaderpropanimator.cs
+++SimpleScript.cs
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\textmesh pro\examples & extras\scripts\simplescript.cs
+++SkewTextExample.cs
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\textmesh pro\examples & extras\scripts\skewtextexample.cs
+++TeleType.cs
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\textmesh pro\examples & extras\scripts\teletype.cs
+++TextConsoleSimulator.cs
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\textmesh pro\examples & extras\scripts\textconsolesimulator.cs
+++TextMeshProFloatingText.cs
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\textmesh pro\examples & extras\scripts\textmeshprofloatingtext.cs
+++TextMeshSpawner.cs
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\textmesh pro\examples & extras\scripts\textmeshspawner.cs
+++TMP_DigitValidator.cs
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\textmesh pro\examples & extras\scripts\tmp_digitvalidator.cs
+++TMP_ExampleScript_01.cs
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\textmesh pro\examples & extras\scripts\tmp_examplescript_01.cs
+++TMP_FrameRateCounter.cs
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\textmesh pro\examples & extras\scripts\tmp_frameratecounter.cs
+++TMP_PhoneNumberValidator.cs
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\textmesh pro\examples & extras\scripts\tmp_phonenumbervalidator.cs
+++TMP_TextEventCheck.cs
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\textmesh pro\examples & extras\scripts\tmp_texteventcheck.cs
+++TMP_TextEventHandler.cs
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\textmesh pro\examples & extras\scripts\tmp_texteventhandler.cs
+++TMP_TextInfoDebugTool.cs
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\textmesh pro\examples & extras\scripts\tmp_textinfodebugtool.cs
+++TMP_TextSelector_A.cs
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\textmesh pro\examples & extras\scripts\tmp_textselector_a.cs
+++TMP_TextSelector_B.cs
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\textmesh pro\examples & extras\scripts\tmp_textselector_b.cs
+++TMP_UiFrameRateCounter.cs
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\textmesh pro\examples & extras\scripts\tmp_uiframeratecounter.cs
+++TMPro_InstructionOverlay.cs
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\textmesh pro\examples & extras\scripts\tmpro_instructionoverlay.cs
+++VertexColorCycler.cs
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\textmesh pro\examples & extras\scripts\vertexcolorcycler.cs
+++VertexJitter.cs
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\textmesh pro\examples & extras\scripts\vertexjitter.cs
+++VertexShakeA.cs
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\textmesh pro\examples & extras\scripts\vertexshakea.cs
+++VertexShakeB.cs
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\textmesh pro\examples & extras\scripts\vertexshakeb.cs
+++VertexZoom.cs
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\textmesh pro\examples & extras\scripts\vertexzoom.cs
+++WarpTextExample.cs
+i:{f865b811-c98e-7bf9-1cdf-ee804ae633e8}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\textmesh pro\examples & extras\scripts\warptextexample.cs
+++SimpleFileBrowser
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\plugins\simplefilebrowser\
+++Firebase.Editor
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++Google.IOSResolver
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++Google.JarResolver
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++Google.PackageManagerResolver
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++Google.VersionHandler
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++Google.VersionHandlerImpl
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++log4netPlastic
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++Unity.Plastic.Antlr3.Runtime
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++Unity.Plastic.Newtonsoft.Json
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEditor.Android.Extensions
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEditor.Graphs
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEditor.iOS.Extensions
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEditor.WebGL.Extensions
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++UnityEditor.WindowsStandalone.Extensions
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++unityplastic
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:
+++Android
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\plugins\simplefilebrowser\android\
+++README.txt
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\plugins\simplefilebrowser\readme.txt
+++SimpleFileBrowser.Runtime.asmdef
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\plugins\simplefilebrowser\simplefilebrowser.runtime.asmdef
+++FBCallbackHelper.cs
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\plugins\simplefilebrowser\android\fbcallbackhelper.cs
+++FBDirectoryReceiveCallbackAndroid.cs
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\plugins\simplefilebrowser\android\fbdirectoryreceivecallbackandroid.cs
+++FBPermissionCallbackAndroid.cs
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\plugins\simplefilebrowser\android\fbpermissioncallbackandroid.cs
+++SimpleRecycledListView
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\plugins\simplefilebrowser\scripts\simplerecycledlistview\
+++FileBrowser.cs
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\plugins\simplefilebrowser\scripts\filebrowser.cs
+++FileBrowserContextMenu.cs
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\plugins\simplefilebrowser\scripts\filebrowsercontextmenu.cs
+++FileBrowserCursorHandler.cs
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\plugins\simplefilebrowser\scripts\filebrowsercursorhandler.cs
+++FileBrowserDeleteConfirmationPanel.cs
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\plugins\simplefilebrowser\scripts\filebrowserdeleteconfirmationpanel.cs
+++FileBrowserHelpers.cs
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\plugins\simplefilebrowser\scripts\filebrowserhelpers.cs
+++FileBrowserItem.cs
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\plugins\simplefilebrowser\scripts\filebrowseritem.cs
+++FileBrowserMovement.cs
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\plugins\simplefilebrowser\scripts\filebrowsermovement.cs
+++FileBrowserQuickLink.cs
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\plugins\simplefilebrowser\scripts\filebrowserquicklink.cs
+++FileBrowserRenamedItem.cs
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\plugins\simplefilebrowser\scripts\filebrowserrenameditem.cs
+++NonDrawingGraphic.cs
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\plugins\simplefilebrowser\scripts\nondrawinggraphic.cs
+++UISkin.cs
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\plugins\simplefilebrowser\scripts\uiskin.cs
+++FileIcons
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\plugins\simplefilebrowser\sprites\fileicons\
+++IListViewAdapter.cs
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\plugins\simplefilebrowser\scripts\simplerecycledlistview\ilistviewadapter.cs
+++ListItem.cs
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\plugins\simplefilebrowser\scripts\simplerecycledlistview\listitem.cs
+++RecycledListView.cs
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\plugins\simplefilebrowser\scripts\simplerecycledlistview\recycledlistview.cs
+++LICENSE.txt
+i:{4049bb02-ad96-9c79-5703-973ff527e938}:c:\users\kamag\onedrive\рабочий стол\proekty\кунстхалле\зеленый квадрат\greensquare\assets\plugins\simplefilebrowser\sprites\fileicons\license.txt
