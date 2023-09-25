@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=cp1251"/>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Green Square</title>
+    <style>
+
+        
+        img {
+            
+            height: 200px;
+            width: 200px;
+            border: 2px black solid;
+            margin: 10px;
+        }
+
+        
+
+    </style>
+</head>
+
+<body>
+    <p>
+        ИСКУССТВО НЕ ПРИНАДЛЕЖИТ ХУДОЖНИКУ.
+        МЕДИА НЕ ПРИНАДЛЕЖАТ ХУДОЖНИКУ.
+        ЗАГРУЗИ ИЗОБРАЖЕНИЕ С ТЕЛЕФОНА,
+        ЧТОБЫ ЗАМЕНИТЬ ЗЕЛЕНЫЙ ЦВЕТ НА ПРОЕКЦИИ
+        И ВПИСАТЬ В "ЧЕРНЫЙ КВАДРАТ" МАЛЕВИЧА ТО,
+        ЧТО ТЫ СЧИТАЕШЬ ИСКУССТВОМ
+    </p>
+
+   
+    <img id="myimg" /><label id="upprogress"></label> <br><br>
+
+    <button id="selbtn">Выбрать изображение</button>
+    <button id="upbtn">Загрузить изображение</button>
+
+
+    <script type="module">
+
+        import { initializeApp } from "https://www.gstatic.com/firebasejs/9.7.0/firebase-app.js";
+
+        const firebaseConfig = {
+            apiKey: "AIzaSyAkUsFH27IEX9yud1S1fpgq1BNWnzKkmaQ",
+            authDomain: "gs-new-prj.firebaseapp.com",
+            projectId: "gs-new-prj",
+            storageBucket: "gs-new-prj.appspot.com",
+            messagingSenderId: "652007377872",
+            appId: "1:652007377872:web:a7933cca72f78171a247d5"
+        };
+
+        const app = initializeApp(firebaseConfig);
+
+        import { getStorage, ref as sRef, uploadBytesResumable, getDownloadURL }
+            from "https://www.gstatic.com/firebasejs/9.7.0/firebase-storage.js"
+
+        // variables & refs//
+
+        var files = [];
+        var reader = new FileReader();
+
+        var namebox = document.getElementById('namebox');
+        var extlab = document.getElementById('extlab');
+        var myimg = document.getElementById('myimg');
+        var proglab = document.getElementById('proglab');
+        var SelBtn = document.getElementById('SelBtn');
+        var UpBtn = document.getElementById('UpBtn');
+        var DownBtn = document.getElementById('DownBtn');
+
+        var input = document.createElement('input');
+        input.type = 'file';
+
+        input.onchange = e => {
+            files = e.target.files;
+
+            //       var extention = GetFileExtention(files[0]);
+            var name = GetFileName(files[0]);
+
+            //       namebox.value = name;
+            //       extlab.innerHTML = extention;
+
+            reader.readAsDataURL(files[0]);
+        }
+
+        reader.onload = function () {
+            myimg.src = reader.result;
+        }
+
+        //selection//
+
+        selbtn.onclick = function () {
+            input.click();
+        }
+
+        //   function GetFileExtention(file) {
+        //       var temp = file.name.split('.');
+        //       var ext = temp.slice(temp.lenght - 1, temp.lenght);
+        //       return '.'+ ext[0]
+        //   }
+
+        function GetFileName(file) {
+            var temp = file.name.split('.');
+           var fname = temp.slice(0, -1).join('.');
+            return "NewFile.jpeg";
+        }
+
+        //upload process//
+
+        async function UploadProcess() {
+            var ImgToUpload = files[0];
+
+            // var ImgName = namebox.value + extlab.innerHTML;
+
+            const metaData = {
+                contentType: ImgToUpload.type
+            }
+
+            const storage = getStorage();
+
+            const storageRef = sRef(storage, "Images/" + name);
+
+            const UploadTask = uploadBytesResumable(storageRef, ImgToUpload, metaData);
+
+            UploadTask.on('state-changed', (snapshot) => {
+                var progress = (snapshot.bytesTransferred / snapshot.totalBytes) * 100;
+
+            },
+                (error) => {
+                    alert("error: image not uploaded!");
+                },
+                () => {
+                    getDownloadURL(UploadTask.snapshot.ref).then((downloadURL) => {
+                        alert("Изображение успешно загружено");
+                    })
+                }
+            );
+
+        }
+
+        upbtn.onclick = UploadProcess;
+
+    </script>
+
+</body>
+</html>
